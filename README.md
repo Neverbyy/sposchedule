@@ -36,6 +36,7 @@
 
 ## Авторы
 
-- **GreenBabyBorn** - Разработчик
+- **Neverbyy** - Frontend Developer
+- **GreenBabyBorn** - Backend Developer / DevOps Engineer
 
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами.
